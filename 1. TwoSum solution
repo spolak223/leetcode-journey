@@ -1,0 +1,8 @@
+# My thought process:
+- I saw that i had to create a target number from a list of potential integers
+- Therefore, this led me to thinking: "I have to get one number and add all other numbers to it to see if it matches the target integer"
+- Although it has a time complexity of O(n^2) this is the first problem I have ever solved, I do aim to improve this when I further develop my coding skills
+
+
+# My solution:
+- [Link to leetcode solution](https://leetcode.com/problems/two-sum/post-solution/?submissionId=1537271586)
